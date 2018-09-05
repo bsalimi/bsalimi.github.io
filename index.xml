@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic on Academic</title>
-    <link>https://bsalimi.github.io/</link>
+    <link>www.babaksalimi.com/</link>
     <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="www.babaksalimi.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
-      <link>https://bsalimi.github.io/publication/biasolap/</link>
+      <link>www.babaksalimi.com/publication/biasolap/</link>
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/biasolap/</guid>
+      <guid>www.babaksalimi.com/publication/biasolap/</guid>
       <description></description>
     </item>
     
