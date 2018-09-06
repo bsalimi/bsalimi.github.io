@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 19:16:05 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 12:20:55 -0700</lastBuildDate>
     
 	<atom:link href="https://bsalimi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets.</title>
+      <link>https://bsalimi.github.io/publication/monility/</link>
+      <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/monility/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
@@ -27,6 +36,15 @@
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/biasolap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZaliQL: causal inference from observational data at scale</title>
+      <link>https://bsalimi.github.io/publication/zaliql/</link>
+      <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/zaliql/</guid>
       <description></description>
     </item>
     
