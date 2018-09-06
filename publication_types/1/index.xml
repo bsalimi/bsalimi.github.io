@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Babak Salimi&#39;s Home Page</title>
-    <link>https://bsalimi.github.io/publication_types/1/</link>
+    <link>www.babaksalimi.com/publication_types/1/</link>
     <description>Recent content in 1 on Babak Salimi&#39;s Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 06 Sep 2018 12:20:55 -0700</lastBuildDate>
     
-	<atom:link href="https://bsalimi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.babaksalimi.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets.</title>
-      <link>https://bsalimi.github.io/publication/monility/</link>
+      <link>www.babaksalimi.com/publication/monility/</link>
       <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/monility/</guid>
+      <guid>www.babaksalimi.com/publication/monility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
-      <link>https://bsalimi.github.io/publication/hypdb/</link>
+      <link>www.babaksalimi.com/publication/hypdb/</link>
       <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/hypdb/</guid>
+      <guid>www.babaksalimi.com/publication/hypdb/</guid>
       <description>[Best Demonstration Award]</description>
     </item>
     
     <item>
       <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
-      <link>https://bsalimi.github.io/publication/biasolap/</link>
+      <link>www.babaksalimi.com/publication/biasolap/</link>
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/biasolap/</guid>
+      <guid>www.babaksalimi.com/publication/biasolap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZaliQL: causal inference from observational data at scale</title>
-      <link>https://bsalimi.github.io/publication/zaliql/</link>
+      <link>www.babaksalimi.com/publication/zaliql/</link>
       <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/zaliql/</guid>
+      <guid>www.babaksalimi.com/publication/zaliql/</guid>
       <description></description>
     </item>
     

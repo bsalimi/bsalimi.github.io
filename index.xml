@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Babak Salimi&#39;s Home Page on Babak Salimi&#39;s Home Page</title>
-    <link>https://bsalimi.github.io/</link>
+    <link>www.babaksalimi.com/</link>
     <description>Recent content in Babak Salimi&#39;s Home Page on Babak Salimi&#39;s Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="www.babaksalimi.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Detecting Bias in Decision Support Queries</title>
-      <link>https://bsalimi.github.io/talk/tabl/</link>
+      <link>www.babaksalimi.com/talk/tabl/</link>
       <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/talk/tabl/</guid>
+      <guid>www.babaksalimi.com/talk/tabl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets.</title>
-      <link>https://bsalimi.github.io/publication/monility/</link>
+      <link>www.babaksalimi.com/publication/monility/</link>
       <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/monility/</guid>
+      <guid>www.babaksalimi.com/publication/monility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asha</title>
-      <link>https://bsalimi.github.io/project/asha/</link>
+      <link>www.babaksalimi.com/project/asha/</link>
       <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/project/asha/</guid>
+      <guid>www.babaksalimi.com/project/asha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HypDB</title>
-      <link>https://bsalimi.github.io/project/hypdb/</link>
+      <link>www.babaksalimi.com/project/hypdb/</link>
       <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/project/hypdb/</guid>
+      <guid>www.babaksalimi.com/project/hypdb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
-      <link>https://bsalimi.github.io/publication/hypdb/</link>
+      <link>www.babaksalimi.com/publication/hypdb/</link>
       <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/hypdb/</guid>
+      <guid>www.babaksalimi.com/publication/hypdb/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;[Best Demonstration Award]&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
-      <link>https://bsalimi.github.io/publication/biasolap/</link>
+      <link>www.babaksalimi.com/publication/biasolap/</link>
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/biasolap/</guid>
+      <guid>www.babaksalimi.com/publication/biasolap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZaliQL</title>
-      <link>https://bsalimi.github.io/project/zaliql/</link>
+      <link>www.babaksalimi.com/project/zaliql/</link>
       <pubDate>Tue, 05 Sep 2017 21:37:25 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/project/zaliql/</guid>
+      <guid>www.babaksalimi.com/project/zaliql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZaliQL: causal inference from observational data at scale</title>
-      <link>https://bsalimi.github.io/publication/zaliql/</link>
+      <link>www.babaksalimi.com/publication/zaliql/</link>
       <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/publication/zaliql/</guid>
+      <guid>www.babaksalimi.com/publication/zaliql/</guid>
       <description></description>
     </item>
     
