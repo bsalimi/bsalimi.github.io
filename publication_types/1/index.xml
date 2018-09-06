@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 14:33:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 19:16:05 -0700</lastBuildDate>
     
 	<atom:link href="https://bsalimi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
+      <link>https://bsalimi.github.io/publication/hypdb/</link>
+      <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/hypdb/</guid>
+      <description>[Best Demonstration Award]</description>
+    </item>
     
     <item>
       <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
