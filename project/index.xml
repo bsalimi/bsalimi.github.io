@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>https://bsalimi.github.io/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 21:37:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://bsalimi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asha</title>
+      <link>https://bsalimi.github.io/project/asha/</link>
+      <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/asha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HypDB</title>
+      <link>https://bsalimi.github.io/project/hypdb/</link>
+      <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/hypdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZaliQL</title>
+      <link>https://bsalimi.github.io/project/zaliql/</link>
+      <pubDate>Tue, 05 Sep 2017 21:37:25 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/zaliql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

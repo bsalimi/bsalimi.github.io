@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OLAP on Academic</title>
+    <link>https://bsalimi.github.io/tags/olap/</link>
+    <description>Recent content in OLAP on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 21:35:48 -0700</lastBuildDate>
+    
+	<atom:link href="https://bsalimi.github.io/tags/olap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HypDB</title>
+      <link>https://bsalimi.github.io/project/hypdb/</link>
+      <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/hypdb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

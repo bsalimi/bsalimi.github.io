@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database Systems on Academic</title>
+    <link>https://bsalimi.github.io/tags/database-systems/</link>
+    <description>Recent content in Database Systems on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Sep 2017 21:37:25 -0700</lastBuildDate>
+    
+	<atom:link href="https://bsalimi.github.io/tags/database-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ZaliQL</title>
+      <link>https://bsalimi.github.io/project/zaliql/</link>
+      <pubDate>Tue, 05 Sep 2017 21:37:25 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/zaliql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
