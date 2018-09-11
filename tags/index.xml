@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Babak Salimi&#39;s Home Page</title>
-    <link>www.babaksalimi.com/tags/</link>
+    <link>https://bsalimi.github.io/tags/</link>
     <description>Recent content in Tags on Babak Salimi&#39;s Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 05 Sep 2018 21:37:36 -0700</lastBuildDate>
     
-	<atom:link href="www.babaksalimi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bsalimi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algorithmic Fairness</title>
-      <link>www.babaksalimi.com/tags/algorithmic-fairness/</link>
+      <link>https://bsalimi.github.io/tags/algorithmic-fairness/</link>
       <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/algorithmic-fairness/</guid>
+      <guid>https://bsalimi.github.io/tags/algorithmic-fairness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal Inference</title>
-      <link>www.babaksalimi.com/tags/causal-inference/</link>
+      <link>https://bsalimi.github.io/tags/causal-inference/</link>
       <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/causal-inference/</guid>
+      <guid>https://bsalimi.github.io/tags/causal-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database Systems</title>
-      <link>www.babaksalimi.com/tags/database-systems/</link>
+      <link>https://bsalimi.github.io/tags/database-systems/</link>
       <pubDate>Tue, 05 Sep 2017 21:37:25 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/database-systems/</guid>
+      <guid>https://bsalimi.github.io/tags/database-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Databse Dependancies</title>
-      <link>www.babaksalimi.com/tags/databse-dependancies/</link>
+      <link>https://bsalimi.github.io/tags/databse-dependancies/</link>
       <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/databse-dependancies/</guid>
+      <guid>https://bsalimi.github.io/tags/databse-dependancies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Support Systems</title>
-      <link>www.babaksalimi.com/tags/decision-support-systems/</link>
+      <link>https://bsalimi.github.io/tags/decision-support-systems/</link>
       <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/decision-support-systems/</guid>
+      <guid>https://bsalimi.github.io/tags/decision-support-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OLAP</title>
-      <link>www.babaksalimi.com/tags/olap/</link>
+      <link>https://bsalimi.github.io/tags/olap/</link>
       <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/olap/</guid>
+      <guid>https://bsalimi.github.io/tags/olap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simpson&#39;s Paradox</title>
-      <link>www.babaksalimi.com/tags/simpsons-paradox/</link>
+      <link>https://bsalimi.github.io/tags/simpsons-paradox/</link>
       <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
       
-      <guid>www.babaksalimi.com/tags/simpsons-paradox/</guid>
+      <guid>https://bsalimi.github.io/tags/simpsons-paradox/</guid>
       <description></description>
     </item>
     
