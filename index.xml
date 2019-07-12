@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -29,11 +29,11 @@
     </item>
     
     <item>
-      <title>Asha</title>
-      <link>https://bsalimi.github.io/project/asha/</link>
+      <title>Capuchin</title>
+      <link>https://bsalimi.github.io/project/capuchin/</link>
       <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/project/asha/</guid>
+      <guid>https://bsalimi.github.io/project/capuchin/</guid>
       <description></description>
     </item>
     
@@ -63,6 +63,15 @@
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/biasolap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference in Database Systems</title>
+      <link>https://bsalimi.github.io/talk/uw_coll_nov8/</link>
+      <pubDate>Fri, 13 Jul 2018 10:12:39 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talk/uw_coll_nov8/</guid>
       <description></description>
     </item>
     
