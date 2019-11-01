@@ -4,8 +4,24 @@
     
     <url>
     
+      <loc>https://bsalimi.github.io/publication/fairdataman/</loc>
+      <lastmod>2019-05-05T14:33:03-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://bsalimi.github.io/publication/capuchin/</loc>
       <lastmod>2019-05-05T14:33:03-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsalimi.github.io/talk/arizona/</loc>
+      <lastmod>2018-09-06T12:39:09-07:00</lastmod>
     </url>
     
   
@@ -22,6 +38,14 @@
     
       <loc>https://bsalimi.github.io/publication/monility/</loc>
       <lastmod>2018-09-06T12:20:55-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsalimi.github.io/project/rci/</loc>
+      <lastmod>2018-09-05T21:37:36-07:00</lastmod>
     </url>
     
   
@@ -54,14 +78,6 @@
     
       <loc>https://bsalimi.github.io/publication/biasolap/</loc>
       <lastmod>2018-09-05T14:33:03-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://bsalimi.github.io/talk/uw_coll_nov8/</loc>
-      <lastmod>2018-07-13T10:12:39-07:00</lastmod>
     </url>
     
   
@@ -160,6 +176,15 @@
     
     <url>
     
+      <loc>https://bsalimi.github.io/tags/causal-relational-learning/</loc>
+      <lastmod>2018-09-05T21:37:36-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://bsalimi.github.io/tags/database-systems/</loc>
       <lastmod>2017-09-05T21:37:25-07:00</lastmod>
       <priority>0</priority>
@@ -214,8 +239,35 @@
     
     <url>
     
+      <loc>https://bsalimi.github.io/tags/relational-databses/</loc>
+      <lastmod>2018-09-05T21:37:36-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://bsalimi.github.io/tags/simpsons-paradox/</loc>
       <lastmod>2018-09-05T21:35:48-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsalimi.github.io/tags/social-networks/</loc>
+      <lastmod>2018-09-05T21:37:36-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsalimi.github.io/tags/statistical-relational-learning/</loc>
+      <lastmod>2018-09-05T21:37:36-07:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Data Management for Causal Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/publication/fairdataman/</link>
+      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/fairdataman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
       <link>https://bsalimi.github.io/publication/capuchin/</link>
       <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/capuchin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Management for Algorithmic fainress</title>
+      <link>https://bsalimi.github.io/talk/arizona/</link>
+      <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talk/arizona/</guid>
       <description></description>
     </item>
     
@@ -34,6 +52,15 @@
       <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/monility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaRL</title>
+      <link>https://bsalimi.github.io/project/rci/</link>
+      <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/project/rci/</guid>
       <description></description>
     </item>
     
@@ -62,8 +89,7 @@
       <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/hypdb/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;[Best Demonstration Award]&lt;/span&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -72,15 +98,6 @@
       <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/biasolap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Inference in Database Systems</title>
-      <link>https://bsalimi.github.io/talk/uw_coll_nov8/</link>
-      <pubDate>Fri, 13 Jul 2018 10:12:39 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/uw_coll_nov8/</guid>
       <description></description>
     </item>
     
