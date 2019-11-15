@@ -13,20 +13,38 @@
     
     
     <item>
-      <title>Data Management for Algorithmic fainress</title>
+      <title>Invited talk (University of Arizona): Data Management for Algorithmic fairness</title>
       <link>https://bsalimi.github.io/talk/arizona/</link>
-      <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
+      <pubDate>Sat, 10 Nov 2018 12:39:09 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/talk/arizona/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Detecting Bias in Decision Support Queries</title>
+      <title>Invited talk (Amazon): Data Management for Algorithmic fairness</title>
+      <link>https://bsalimi.github.io/talk/amazon/</link>
+      <pubDate>Tue, 18 Sep 2018 12:39:09 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talk/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk (Tableau): Detecting Bias in Decision Support Queries</title>
       <link>https://bsalimi.github.io/talk/tabl/</link>
       <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/talk/tabl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk (UCSC): Soundness and Fairness in Decision Making Systems</title>
+      <link>https://bsalimi.github.io/talk/ucsc/</link>
+      <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talk/ucsc/</guid>
       <description></description>
     </item>
     
