@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Causal Relational Learning</title>
+      <link>https://bsalimi.github.io/publication/carl/</link>
+      <pubDate>Tue, 21 Apr 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/carl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Approximate Acyclic Schemes from Relations</title>
+      <link>https://bsalimi.github.io/publication/sdis/</link>
+      <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/sdis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Management for Causal Algorithmic Fairness</title>
       <link>https://bsalimi.github.io/publication/fairdataman/</link>
       <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
@@ -125,24 +143,6 @@
       <pubDate>Fri, 13 Jul 2018 10:12:39 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/talk/uwaff2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ZaliQL</title>
-      <link>https://bsalimi.github.io/project/zaliql/</link>
-      <pubDate>Tue, 05 Sep 2017 21:37:25 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/project/zaliql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ZaliQL: causal inference from observational data at scale</title>
-      <link>https://bsalimi.github.io/publication/zaliql/</link>
-      <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/publication/zaliql/</guid>
       <description></description>
     </item>
     

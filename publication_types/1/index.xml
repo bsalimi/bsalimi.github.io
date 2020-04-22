@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 05 May 2019 14:33:03 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 14:33:03 -0700</lastBuildDate>
     
 	<atom:link href="https://bsalimi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Causal Relational Learning</title>
+      <link>https://bsalimi.github.io/publication/carl/</link>
+      <pubDate>Tue, 21 Apr 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/carl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Approximate Acyclic Schemes from Relations</title>
+      <link>https://bsalimi.github.io/publication/sdis/</link>
+      <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/sdis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Management for Causal Algorithmic Fairness</title>
