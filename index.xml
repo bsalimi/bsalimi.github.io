@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Database Repair Meets Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/publication/capuchinhighlight/</link>
+      <pubDate>Tue, 05 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/capuchinhighlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Inferring Causality from RelationalDatabases with CaRL</title>
+      <link>https://bsalimi.github.io/publication/carldemo/</link>
+      <pubDate>Mon, 04 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/publication/carldemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Causal Relational Learning</title>
       <link>https://bsalimi.github.io/publication/carl/</link>
       <pubDate>Tue, 21 Apr 2020 14:33:03 -0700</pubDate>
@@ -125,24 +143,6 @@
       <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/hypdb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
-      <link>https://bsalimi.github.io/publication/biasolap/</link>
-      <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/publication/biasolap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Inference in Database Systems</title>
-      <link>https://bsalimi.github.io/talk/uwaff2018/</link>
-      <pubDate>Fri, 13 Jul 2018 10:12:39 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/uwaff2018/</guid>
       <description></description>
     </item>
     

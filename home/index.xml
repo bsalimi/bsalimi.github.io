@@ -31,11 +31,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://bsalimi.github.io/home/projects/</link>
+      <title>Recent Publications</title>
+      <link>https://bsalimi.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/home/projects/</guid>
+      <guid>https://bsalimi.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -49,12 +49,12 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://bsalimi.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <title>Moments</title>
+      <link>https://bsalimi.github.io/home/moments/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://bsalimi.github.io/home/publications/</guid>
-      <description></description>
+      <guid>https://bsalimi.github.io/home/moments/</guid>
+      <description>Tweets by bksalimi</description>
     </item>
     
     <item>
@@ -63,6 +63,15 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://bsalimi.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -81,15 +90,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://bsalimi.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/home/posts/</guid>
       <description></description>
     </item>
     
