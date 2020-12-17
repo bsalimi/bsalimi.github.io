@@ -22,11 +22,29 @@
     </item>
     
     <item>
+      <title>Database Repair Meets Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/capuchinhighlight/</link>
+      <pubDate>Tue, 05 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/capuchinhighlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demonstration of Inferring Causality from RelationalDatabases with CaRL</title>
       <link>https://bsalimi.github.io/publication/carldemo/</link>
       <pubDate>Mon, 04 May 2020 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/carldemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Inferring Causality from RelationalDatabases with CaRL</title>
+      <link>https://bsalimi.github.io/test/carldemo/</link>
+      <pubDate>Mon, 04 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/carldemo/</guid>
       <description></description>
     </item>
     
@@ -40,11 +58,29 @@
     </item>
     
     <item>
+      <title>Causal Relational Learning</title>
+      <link>https://bsalimi.github.io/test/carl/</link>
+      <pubDate>Tue, 21 Apr 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/carl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mining Approximate Acyclic Schemes from Relations</title>
       <link>https://bsalimi.github.io/publication/sdis/</link>
       <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/sdis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Approximate Acyclic Schemes from Relations</title>
+      <link>https://bsalimi.github.io/test/sdis/</link>
+      <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/sdis/</guid>
       <description></description>
     </item>
     
@@ -58,11 +94,29 @@
     </item>
     
     <item>
+      <title>Data Management for Causal Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/fairdataman/</link>
+      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/fairdataman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
       <link>https://bsalimi.github.io/publication/capuchin/</link>
       <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/capuchin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/capuchin/</link>
+      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/capuchin/</guid>
       <description></description>
     </item>
     
@@ -76,11 +130,29 @@
     </item>
     
     <item>
+      <title>MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets.</title>
+      <link>https://bsalimi.github.io/test/monility/</link>
+      <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/monility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
       <link>https://bsalimi.github.io/publication/hypdb/</link>
       <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/hypdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
+      <link>https://bsalimi.github.io/test/hypdb/</link>
+      <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/hypdb/</guid>
       <description></description>
     </item>
     
@@ -94,6 +166,15 @@
     </item>
     
     <item>
+      <title>Bias in OLAP Queries: Detection, Explanation, and Removal</title>
+      <link>https://bsalimi.github.io/test/biasolap/</link>
+      <pubDate>Wed, 05 Sep 2018 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/biasolap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ZaliQL: causal inference from observational data at scale</title>
       <link>https://bsalimi.github.io/publication/zaliql/</link>
       <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
@@ -103,11 +184,29 @@
     </item>
     
     <item>
+      <title>ZaliQL: causal inference from observational data at scale</title>
+      <link>https://bsalimi.github.io/test/zaliql/</link>
+      <pubDate>Sat, 05 Aug 2017 19:16:17 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/zaliql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From causes for database queries to repairs and model-based diagnosis and back</title>
       <link>https://bsalimi.github.io/publication/mbd/</link>
       <pubDate>Sun, 12 Jul 2015 16:32:20 +0100</pubDate>
       
       <guid>https://bsalimi.github.io/publication/mbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From causes for database queries to repairs and model-based diagnosis and back</title>
+      <link>https://bsalimi.github.io/test/mbd/</link>
+      <pubDate>Sun, 12 Jul 2015 16:32:20 +0100</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/mbd/</guid>
       <description></description>
     </item>
     

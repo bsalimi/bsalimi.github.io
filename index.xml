@@ -20,11 +20,29 @@
     </item>
     
     <item>
+      <title>Database Repair Meets Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/capuchinhighlight/</link>
+      <pubDate>Tue, 05 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/capuchinhighlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demonstration of Inferring Causality from RelationalDatabases with CaRL</title>
       <link>https://bsalimi.github.io/publication/carldemo/</link>
       <pubDate>Mon, 04 May 2020 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/carldemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Inferring Causality from RelationalDatabases with CaRL</title>
+      <link>https://bsalimi.github.io/test/carldemo/</link>
+      <pubDate>Mon, 04 May 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/carldemo/</guid>
       <description></description>
     </item>
     
@@ -38,11 +56,29 @@
     </item>
     
     <item>
+      <title>Causal Relational Learning</title>
+      <link>https://bsalimi.github.io/test/carl/</link>
+      <pubDate>Tue, 21 Apr 2020 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/carl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mining Approximate Acyclic Schemes from Relations</title>
       <link>https://bsalimi.github.io/publication/sdis/</link>
       <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/sdis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Approximate Acyclic Schemes from Relations</title>
+      <link>https://bsalimi.github.io/test/sdis/</link>
+      <pubDate>Tue, 21 Apr 2020 10:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/sdis/</guid>
       <description></description>
     </item>
     
@@ -56,11 +92,29 @@
     </item>
     
     <item>
+      <title>Data Management for Causal Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/fairdataman/</link>
+      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/fairdataman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
       <link>https://bsalimi.github.io/publication/capuchin/</link>
       <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/capuchin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
+      <link>https://bsalimi.github.io/test/capuchin/</link>
+      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/test/capuchin/</guid>
       <description></description>
     </item>
     
@@ -88,61 +142,6 @@
       <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/talk/tabl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited talk (UCSC): Soundness and Fairness in Decision Making Systems</title>
-      <link>https://bsalimi.github.io/talk/ucsc/</link>
-      <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/ucsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets.</title>
-      <link>https://bsalimi.github.io/publication/monility/</link>
-      <pubDate>Thu, 06 Sep 2018 12:20:55 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/publication/monility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CaRL</title>
-      <link>https://bsalimi.github.io/project/rci/</link>
-      <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/project/rci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capuchin</title>
-      <link>https://bsalimi.github.io/project/capuchin/</link>
-      <pubDate>Wed, 05 Sep 2018 21:37:36 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/project/capuchin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HypDB</title>
-      <link>https://bsalimi.github.io/project/hypdb/</link>
-      <pubDate>Wed, 05 Sep 2018 21:35:48 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/project/hypdb/</guid>
-      <description>&lt;p&gt;HypDB is the first system to detect, explain, and resolve bias in decision-support OLAP queries. We show that biased queries can be perplexing and lead to statistical anomalies, such as Simpson’s paradox. We propose a novel technique to find explanations for the bias, thereby assisting the analyst in interpreting the results. We develop an automated method for rewriting the query into an unbiased query that correctly performs the hypothesis test that the analyst had in mind. The rewritten queries compute causal effect or the effect of hypothetical interventions. At the core of our framework lies the ability to find confounding variables. We show that HypDB can be used to detect algorithmic unfairness post factum.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HypDB: A Demonstration of Detecting, Explaining and Resolving Bias in OLAP queries.</title>
-      <link>https://bsalimi.github.io/publication/hypdb/</link>
-      <pubDate>Wed, 05 Sep 2018 19:16:05 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/publication/hypdb/</guid>
       <description></description>
     </item>
     
