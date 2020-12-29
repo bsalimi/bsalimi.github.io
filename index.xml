@@ -11,6 +11,43 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Moments</title>
+      <link>https://bsalimi.github.io/moments/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/moments/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; data-height=&#34;1000&#34; href=&#34;https://twitter.com/bksalimi?ref_src=twsrc%5Etfw&#34;&gt;Tweets by bksalimi&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://bsalimi.github.io/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://bsalimi.github.io/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bsalimi.github.io/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://bsalimi.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Database Repair Meets Algorithmic Fairness</title>
       <link>https://bsalimi.github.io/publication/capuchinhighlight/</link>
       <pubDate>Tue, 05 May 2020 14:33:03 -0700</pubDate>
@@ -106,42 +143,6 @@
       <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
       
       <guid>https://bsalimi.github.io/publication/capuchin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interventional Fairness: Causal Database Repair for Algorithmic Fairness</title>
-      <link>https://bsalimi.github.io/test/capuchin/</link>
-      <pubDate>Sun, 05 May 2019 14:33:03 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/test/capuchin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited talk (University of Arizona): Data Management for Algorithmic fairness</title>
-      <link>https://bsalimi.github.io/talk/arizona/</link>
-      <pubDate>Sat, 10 Nov 2018 12:39:09 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/arizona/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited talk (Amazon): Data Management for Algorithmic fairness</title>
-      <link>https://bsalimi.github.io/talk/amazon/</link>
-      <pubDate>Tue, 18 Sep 2018 12:39:09 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/amazon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited talk (Tableau): Detecting Bias in Decision Support Queries</title>
-      <link>https://bsalimi.github.io/talk/tabl/</link>
-      <pubDate>Thu, 06 Sep 2018 12:39:09 -0700</pubDate>
-      
-      <guid>https://bsalimi.github.io/talk/tabl/</guid>
       <description></description>
     </item>
     
