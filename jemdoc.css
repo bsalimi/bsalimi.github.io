@@ -1,9 +1,9 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-	border: none;
-	border-collapse: separate;
-	background: white;
+    border: none;
+    border-collapse: separate;
+    background: white;
 }
 
 body {
@@ -19,28 +19,26 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-	text-align: left;
-	vertical-align: top;
+    text-align: left;
+    vertical-align: top;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
-	vertical-align: top;
+    vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 2.0em;
-	padding-right: 2.0em;
-	border: none;
-	background: white;
-	text-align: left;
-	vertical-align: top;
-	min-width: 1300px;
-	width: 1300px;
+	padding-left: 1.0em;
+	padding-right: 1.0em;
+    border: none;
+    background: white;
+    text-align: left;
+    vertical-align: top;
 }
 
 #layout-menu a {
@@ -49,11 +47,11 @@ body {
 }
 
 tt {
-	background: #ffffdd;
+    background: #ffffdd;
 }
 
 pre, tt {
-	font-size: 190%;
+	font-size: 90%;
 	font-family: monaco, monospace;
 }
 
@@ -128,18 +126,17 @@ h1, h2, h3 {
 	border-bottom: 1px solid #aaaaaa;
 }
 
-/* header (my name size) */
 h1 {
-	font-size: 150%;
+	font-size: 165%;
 }
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 140%;
+	font-size: 125%;
 }
 
 h2 + h3 {
-	padding-top: 0.2em;
+    padding-top: 0.2em;
 }
 
 h3 {
@@ -300,10 +297,7 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-	#layout-menu {
-		display: none;
-	}
-
+	#layout-menu { display: none; }
 }
 
 #fwtitle {
@@ -342,32 +336,32 @@ img.eqwl {
 }
 
 table {
-	border: 2px solid black;
-	border-collapse: collapse;
+    border: 2px solid black;
+    border-collapse: collapse;
 }
 
 td {
-	padding: 2px;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
-	text-align: center;
-	border: 1px solid gray;
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+    border: 1px solid gray;
 }
 
 table + table {
-	margin-top: 1em;
+    margin-top: 1em;
 }
 
 tr.heading {
-	font-weight: bold;
-	border-bottom: 2px solid black;
+    font-weight: bold;
+    border-bottom: 2px solid black;
 }
 
 img {
-	border: none;
+    border: none;
 }
 
 table.imgtable, table.imgtable td {
-	border: none;
-	text-align: left;
+    border: none;
+    text-align: left;
 }
